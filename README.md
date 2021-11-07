@@ -32,11 +32,12 @@ Solving these problems, the key is to transform the Internet from passively acce
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+<img src="Miscellaneous/2.png"
+     style="float: left; margin-right: 0px;" />
 
 
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+Note: Refer to project report at Github Folder: Video
 
 ---
 
