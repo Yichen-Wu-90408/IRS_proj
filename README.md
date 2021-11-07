@@ -7,7 +7,6 @@
 ---
 
 ## SECTION 1 : Movie Recommendation System
-## Singapore Housing & Deveoplment Board - BTO Recommender System
 <img src="Miscellaneous/P.png"
      style="float: left; margin-right: 0px;" />
 
